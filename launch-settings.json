@@ -1,0 +1,12 @@
+{
+  "fullscreen": true,
+  "bezel": true,
+  "preset": 0,
+  "native_widescreen": false,
+  "aspect_ratio": "4:3",
+  "aspect_mode": "4:3",
+  "scale": 3,
+  "upscaling_filter": "nearest",
+  "gamepad_enabled": true,
+  "deadzone": 7849
+}

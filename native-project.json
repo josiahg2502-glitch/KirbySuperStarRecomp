@@ -1,0 +1,9 @@
+{
+  "game": "Kirby Super Star",
+  "backend": "snesrecomp/kss-sa1-widescreen",
+  "revision": "1.0-sa1-widescreen",
+  "rom_sha1": "cca1e67fa230bf4f60154f5ea55d06568229dc5d",
+  "rom_sha256": "4e095fbbdec4a16b075d7140385ff68b259870ca9e3357f076dfff7f3d1c4a62",
+  "widescreen": "352x224 (16:9 Native PPU Widescreen)",
+  "execution": "native C + SA-1 widescreen runtime; zero external DLLs"
+}

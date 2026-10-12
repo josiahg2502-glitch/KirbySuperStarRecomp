@@ -1,0 +1,55 @@
+Kirby Super Star Recomp - Windows x64 v1.0.0
+========================================================================
+
+1. Quick Start:
+   - Double-click "Play Kirby Super Star.cmd" (or "Kirby Super Star.exe").
+   - Boots directly into crisp 1080p Borderless Fullscreen with custom Kirby Super Star artwork bezel!
+   - Plug in any controller (Xbox, PlayStation, Switch Pro, generic PC gamepad) for zero-configuration play!
+
+2. Controls:
+   - Gamepad (Xbox / PC / PlayStation / Nintendo Switch):
+       * Left Analog Stick & D-Pad = 8-Way Directional Grid Navigation & Exploration
+       * A (Cross / B)             = Jump / Float / Swim Up (SNES B)
+       * B (Circle / A)            = Inhale / Attack / Spit / Eat (SNES A)
+       * X (Square / Y)            = Dash / Secondary Attack (SNES Y)
+       * Y (Triangle / X)          = Drop / Discard Current Ability (SNES X)
+       * LT (L2) / LB (L1)         = Guard / Shield (SNES L)
+       * RT (R2) / RB (R1)         = Guard / Shield (SNES R)
+       * Start                     = Pause / Game Menu
+       * Back / Select             = Spawn Helper / Drop Ability
+       * Back + Start (or Guide)   = Quick Cycle Controller Presets with on-screen HUD toast!
+
+   - Keyboard:
+       * Arrow Keys                = D-Pad / Movement
+       * Z                         = Jump / Float (SNES B)
+       * X                         = Inhale / Attack (SNES A)
+       * A                         = Dash / Secondary (SNES Y)
+       * S                         = Drop Ability (SNES X)
+       * C / Q                     = Guard (SNES L)
+       * V                         = Guard (SNES R)
+       * Enter                     = Start
+       * Right Shift / Backspace   = Select
+       * Tab (hold)                = Fast-Forward
+
+3. System Hotkeys & Enhanced Features:
+   - F10 : Toggle 1080p Bezel on / off (switches between Bezel and Clean Fullscreen with black pillarboxes)
+   - F9  : Cycle Controller Presets (Xbox Standard, Switch, Trigger Action, Classic 1:1) with on-screen toast
+   - F11 : In-game settings & display menu (replaces Escape)
+   - Esc : Instant clean exit (safely flushes saves and closes)
+   - F1  : Quick Save State (Slot 1) with on-screen HUD confirmation
+   - F2  : Quick Load State (Slot 1) with on-screen HUD confirmation
+   - W   : Cycle Aspect Ratio (16:9 Native PPU -> 16:10 Native -> 4:3 Standard CRT TV -> 8:7 Pixel-Perfect)
+   - 1-5 : Window Scale (1x to 5x when in windowed mode)
+   - Alt+Enter : Toggle Fullscreen / Windowed
+   - P   : Pause / Resume gameplay with toast
+   - M   : Mute / Unmute audio with toast
+   - Tab : Fast-forward gameplay (while held)
+
+4. Display & Bezel Enhancements:
+   - Handcrafted 16:9 custom Kirby Super Star bezel scaled cleanly to 1080p.
+   - Toggle to Clean Fullscreen mode anytime with F10 for authentic black pillarboxes.
+   - Native 16:9 widescreen PPU rendering (352x224) expanding field-of-view seamlessly.
+   - Run "Remap Controller.bat" anytime to configure controller presets.
+
+5. Save Data:
+   - Battery saves (.srm) and quick save states (.state) are safely isolated to the saves/ folder.

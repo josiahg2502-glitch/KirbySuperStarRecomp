@@ -1,0 +1,23 @@
+# Build artifacts
+*.obj
+*.res
+*.exe
+*.log
+*.pdb
+*.ilk
+build/
+graphify-out/
+.vs/
+
+# User saves and states
+saves/
+*.srm
+*.state*
+*.save
+quicksave.state
+game.srm
+
+# OS generated
+Thumbs.db
+Desktop.ini
+.DS_Store
