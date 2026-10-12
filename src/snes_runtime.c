@@ -2915,7 +2915,7 @@ void dma_startDma(Dma* dma, uint8_t val, bool hdma) {
 
 
 
-bool g_new_ppu = true;
+bool g_new_ppu = false;
 void PpuSetExtraSideSpace(Ppu *ppu, int left, int right, int bottom) {
   ppu->extraLeftRight = kPpuExtraLeftRight;
   ppu->extraLeftCur = left > kPpuExtraLeftRight ? kPpuExtraLeftRight : left;

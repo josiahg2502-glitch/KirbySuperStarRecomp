@@ -1422,6 +1422,8 @@ static int run_win32_app(HINSTANCE hInstance, int nCmdShow) {
     init_paths_from_module();
     load_launch_settings_json(g_settings_hyphen_path);
     load_launch_settings_json(g_settings_path);
+    g_fullscreen = true;
+    g_bezel_enabled = true;
 
     /* Allocate master composite framebuffer */
     g_master_fb = (uint32_t*)calloc(MASTER_FB_W * MASTER_FB_H, sizeof(uint32_t));
